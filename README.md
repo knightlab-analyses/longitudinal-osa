@@ -1,1 +1,11 @@
-# longitudinal-osa
+# Studying the effects of obstructive sleep apnea on the gut ecosystem over time
+
+Rationale: Obstructive sleep apnea (OSA), a common disorder characterized by intermittent hypoxia and hypercapnia (IHC) during sleep, augments atherosclerosis risk. However, the contribution of intermittent hypoxia (IH), intermittent hypercapnia (IC) or their combination (IHC) in promoting atherosclerosis remains obscure. Since gut microbiota and metabolites have been implicated in atherosclerosis, we examined whether IH, IC or IHC alters the microbiome and metabolome to induce a pro-atherosclerotic state. 
+
+Objectives: After IH, IC or IHC exposure, we assessed atherosclerotic lesion formation and accompanying changes in gut microbiome and metabolome in apolipoprotein E deficient (ApoE-/-) mice.  
+
+Methods and Results: ApoE-/- mice, treated with IH, IC or IHC on a high-fat diet (HFD) for 10 weeks, were compared to air groups.  Atherosclerotic lesions of aorta, aortic arch and pulmonary artery (PA) were examined. Gut microbiome was profiled using 16S rRNA sequencing and metabolome was examined by mass spectrometry. Our data revealed that IHC treatment accelerated atherosclerosis in all sites (Aorta, IHC 13.8±1.0% vs Air 8.1±0.8%, p<0.05; Aortic arch, IHC 28.5±1.9% vs Air 16.6±2.0%, p<0.05; PA, IHC 28.9±2.8% vs Air 12.2±1.5%, p<0.05). IHC or IC-induced atherosclerosis in aorta was significantly greater than IH alone (Aorta, IHC 13.8±1.0% or IC 11.1±0.7% vs IH 7.6±0.4%, p<0.05). Interestingly, in the PA, the largest atherosclerotic formation was observed in IH-treated mice, followed by IHC then IC (PA, IH 40.9±2.0% vs either IHC 28.9±2.8% or IC 20.1±2.6%, p<0.05). The most differentially abundant microbial families (p<0.001) were Verrucomicrobiaceae, Erysipelotrichaceae, Lachnospiraceae, Ruminococcaceae and Coriobacteriaceae. The most abundant metabolites (p<0.001) were lysophosphoethanolamine(18:0), ursodeoxycholic acid, tauro-𝝱-muricholic acid and lysophosphocholine(14:0). 
+
+Conclusions: IH, IC and IHC have distinct impacts on atherosclerosis in aorta and PA. The changes in the microbiome and metabolome promote a pro-inflammatory and pro-atherosclerotic luminal gut environment that is more evident in IH and IHC than IC or Air. 
+
+DOI link to paper:
