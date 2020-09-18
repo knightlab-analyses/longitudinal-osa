@@ -1,0 +1,219 @@
+	_feature_id	_calour_stat	_calour_pval	_calour_direction
+PC(18:2/0:0); (M+H)+ C26H51N1O7P1	PC(18:2/0:0); (M+H)+ C26H51N1O7P1	-0.6831171983254527	0.0009990009990009652	IHC
+PC(22:6/0:0); (M+H)+ C30H51N1O7P1	PC(22:6/0:0); (M+H)+ C30H51N1O7P1	-0.638272140622372	0.0009990009990009652	IHC
+alpha-TOCHOPHERYL ACETATE	alpha-TOCHOPHERYL ACETATE	-0.6165817022605503	0.0009990009990009652	IHC
+Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	-0.5833021073289073	0.0009990009990009652	IHC
+PC(0:0/20:4); (M+H)+ C28H51N1O7P1	PC(0:0/20:4); (M+H)+ C28H51N1O7P1	-0.5724263910954228	0.0009990009990009652	IHC
+Taurodeoxycholic acid	Taurodeoxycholic acid	-0.571328272719999	0.0009990009990009652	IHC
+Tauro-b-muricholic acid	Tauro-b-muricholic acid	-0.5547652560630659	0.0009990009990009652	IHC
+Spectral Match to Phytosphingosine from NIST14	Spectral Match to Phytosphingosine from NIST14	-0.5475609967936879	0.0009990009990009652	IHC
+Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphoethanolamine from NIST14	Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphoethanolamine from NIST14	-0.5475063535732526	0.0009990009990009652	IHC
+Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	-0.5267259773054185	0.0009990009990009652	IHC
+Spectral Match to Tauroursodeoxycholic acid from NIST14	Spectral Match to Tauroursodeoxycholic acid from NIST14	-0.5216706376207332	0.0009990009990009652	IHC
+ReSpect:PS001805 (+-)-alpha-Tocopherol|Vitamin E|DL-all-rac-alpha-Tocopherol|Phytogermine|Profecundin|Syntopherol|Waynecomycin|Almefrol|Denamone|Emipherol	ReSpect:PS001805 (+-)-alpha-Tocopherol|Vitamin E|DL-all-rac-alpha-Tocopherol|Phytogermine|Profecundin|Syntopherol|Waynecomycin|Almefrol|Denamone|Emipherol	-0.45248750712599994	0.0009990009990009652	IHC
+"""2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	"""2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	-0.4491305040145151	0.0009990009990009652	IHC
+Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14	-0.4217353388107655	0.0009990009990009652	IHC
+Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	-0.41674696249034765	0.0009990009990009652	IHC
+"""2-((4R)-4-((5S,9S,10S,12R,13R,14S,17R)-12-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	"""2-((4R)-4-((5S,9S,10S,12R,13R,14S,17R)-12-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	-0.4148561963838187	0.0009990009990009652	IHC
+Spectral Match to Tyr-Pro from NIST14	Spectral Match to Tyr-Pro from NIST14	-0.4108199563037297	0.0009990009990009652	IHC
+Taurocholic acid	Taurocholic acid	-0.4069782258876763	0.0009990009990009652	IHC
+"""ReSpect:PS081304 1-Lauroyl-2-Hydroxy-sn-Glycero-3-Phosphocholine|12:0 LysoPC|1-Dodecanoyllysolecithin|Phosphocholine,1-Lauroyl-2-Hydroxy-sn-Glycero-3-"""	"""ReSpect:PS081304 1-Lauroyl-2-Hydroxy-sn-Glycero-3-Phosphocholine|12:0 LysoPC|1-Dodecanoyllysolecithin|Phosphocholine,1-Lauroyl-2-Hydroxy-sn-Glycero-3-"""	-0.4009927875711214	0.0009990009990009652	IHC
+Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	-0.4001687583592858	0.0009990009990009652	IHC
+TOP19 Psoriasis feature - Unknown FeatureID=3668	TOP19 Psoriasis feature - Unknown FeatureID=3668	-0.3802663503270488	0.0009990009990009652	IHC
+7-Oxocholesterol	7-Oxocholesterol	-0.37185439242269386	0.0009990009990009652	IHC
+Massbank:FFF00045 24-Ethylepicoprostanol	Massbank:FFF00045 24-Ethylepicoprostanol	-0.35855942831442233	0.0009990009990009652	IHC
+Spectral Match to (+)-alpha-Tocopherol from NIST14	Spectral Match to (+)-alpha-Tocopherol from NIST14	-0.3539581184810506	0.0009990009990009652	IHC
+PC(20:1/0:0); (M+H)+ C28H57N1O7P1	PC(20:1/0:0); (M+H)+ C28H57N1O7P1	-0.3365022920285321	0.0009990009990009652	IHC
+taurohyodeoxycholic acid	taurohyodeoxycholic acid	-0.329984998214148	0.0009990009990009652	IHC
+PC(0:0/16:0); (M+H)+ C24H51N1O7P1	PC(0:0/16:0); (M+H)+ C24H51N1O7P1	-0.3268450632759223	0.0009990009990009652	IHC
+Spectral Match to Lyso-PC(16:0) from NIST14	Spectral Match to Lyso-PC(16:0) from NIST14	-0.3114253571759315	0.0009990009990009652	IHC
+4-Cholesten-3-one	4-Cholesten-3-one	-0.2977043908528879	0.0009990009990009652	IHC
+"""2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	"""2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	-0.2863018492635016	0.0019980019980020414	IHC
+Massbank:FFF00004 Cholesterol	Massbank:FFF00004 Cholesterol	-0.2843124966489737	0.0009990009990009652	IHC
+Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14	-0.2811648650748032	0.0019980019980020414	IHC
+"""4-(3,4-dihydroxyphenyl)-7-methoxy-5-((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(((2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl)oxymethyl)oxan-2-yl)oxychromen-2-one"""	"""4-(3,4-dihydroxyphenyl)-7-methoxy-5-((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(((2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl)oxymethyl)oxan-2-yl)oxychromen-2-one"""	-0.2787173436953509	0.0009990009990009652	IHC
+PC(O-14:0/16:0); (M+H)+ C38H79N1O7P1	PC(O-14:0/16:0); (M+H)+ C38H79N1O7P1	-0.26879852371514157	0.0019980019980020414	IHC
+Cer(d18:0/16:0(2OH)); (M+H)+ C34H70N1O4	Cer(d18:0/16:0(2OH)); (M+H)+ C34H70N1O4	-0.25440525360109556	0.004995004995005048	IHC
+PC(20:3/0:0); (M+H)+ C28H53N1O7P1	PC(20:3/0:0); (M+H)+ C28H53N1O7P1	-0.2530258847085742	0.003996003996003972	IHC
+PC(17:1/0:0); (M+H)+ C25H51N1O7P1	PC(17:1/0:0); (M+H)+ C25H51N1O7P1	-0.2483549137019239	0.005994005994006013	IHC
+Bilirubin	Bilirubin	-0.24510052613171857	0.006993006993006978	IHC
+Spectral Match to Phe-Pro from NIST14	Spectral Match to Phe-Pro from NIST14	-0.24273615023499118	0.006993006993006978	IHC
+"""Spectral Match to 13-Docosenamide, (Z)- from NIST14"""	"""Spectral Match to 13-Docosenamide, (Z)- from NIST14"""	-0.2363279332886423	0.006993006993006978	IHC
+"""(2S,4R)-4-((3R,5S,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)-2-hydroxypentanoic acid"""	"""(2S,4R)-4-((3R,5S,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)-2-hydroxypentanoic acid"""	-0.22639532431936604	0.007992007992007943	IHC
+"""(R)-4-((3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pent-2-enoic acid"""	"""(R)-4-((3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pent-2-enoic acid"""	-0.21199452850537348	0.012987012987012991	IHC
+Spectral Match to Bilirubin from METLIN	Spectral Match to Bilirubin from METLIN	-0.19500057233879278	0.017982017982017928	IHC
+Spectral Match to Cholic acid from NIST14	Spectral Match to Cholic acid from NIST14	-0.1932418420909541	0.015984015984015998	IHC
+Spectral Match to Cholesterol from NIST14	Spectral Match to Cholesterol from NIST14	-0.1669759790455679	0.03996003996003994	IHC
+"""methyl (4R)-4-((3R,5S,7R,9S,10S,13R,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoate"""	"""methyl (4R)-4-((3R,5S,7R,9S,10S,13R,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoate"""	-0.1340472930954128	0.07792207792207795	IHC
+Spectral Match to alpha-L-Asp-L-Phe from NIST14	Spectral Match to alpha-L-Asp-L-Phe from NIST14	-0.13112036417105066	0.0759240759240759	IHC
+Cer(d18:1/18:1); (M+H)+ C36H70N1O3	Cer(d18:1/18:1); (M+H)+ C36H70N1O3	-0.11990356155072149	0.10289710289710285	IHC
+Ursodeoxycholic acid	Ursodeoxycholic acid	-0.11227176677906507	0.11088911088911091	IHC
+Cholic acid	Cholic acid	-0.11108815610690272	0.13186813186813184	IHC
+Spectral Match to Ile-Pro from NIST14	Spectral Match to Ile-Pro from NIST14	-0.10850617912156844	0.1298701298701299	IHC
+PC(19:0/0:0); (M+H)+ C27H57N1O7P1	PC(19:0/0:0); (M+H)+ C27H57N1O7P1	-0.09001039747712995	0.1678321678321678	IHC
+TOP 8 Psoriasis feature - Unknown FeatureID=4262	TOP 8 Psoriasis feature - Unknown FeatureID=4262	-0.08647523032065552	0.1778221778221778	IHC
+Spectral Match to Inosine from NIST14	Spectral Match to Inosine from NIST14	-0.07051993424855109	0.22277722277722278	IHC
+"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	-0.040128469191596135	0.3356643356643356	IHC
+Spectral Match to Val-Pro from NIST14	Spectral Match to Val-Pro from NIST14	-0.032110489796613406	0.3326673326673326	IHC
+Spectral Match to Urobilin from NIST14	Spectral Match to Urobilin from NIST14	-0.03201120126842708	0.3646353646353646	IHC
+Spectral Match to 12-Ketodeoxycholic acid from NIST14	Spectral Match to 12-Ketodeoxycholic acid from NIST14	-0.02538767309947436	0.38961038961038963	IHC
+Spectral Match to L-Tryptophan from NIST14	Spectral Match to L-Tryptophan from NIST14	-0.024390127609374927	0.4035964035964036	IHC
+Putative (3-hydroxyhexadecanoyl)glycine (aka Commendamide)	Putative (3-hydroxyhexadecanoyl)glycine (aka Commendamide)	-0.01431805655430081	0.42357642357642356	IHC
+Sarmentoside B	Sarmentoside B	-0.013362641931738166	0.4515484515484516	IHC
+Spectral Match to 1-Hexadecyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Hexadecyl-sn-glycero-3-phosphocholine from NIST14	-0.009572572266215898	0.4675324675324676	IHC
+"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	-0.00572606615844008	0.48351648351648346	IHC
+taurocholic acid	taurocholic acid	-0.004294257059986177	0.4785214785214785	IHC
+cordycepin	cordycepin	-0.003339895564406273	0.48051948051948057	IHC
+"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	-0.0019118305901471996	0.5034965034965035	IHC
+Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14	-0.0019112702943142538	0.4885114885114885	IHC
+Spectral Match to Thr-Ile from NIST14	Spectral Match to Thr-Ile from NIST14	-0.0014467170130507759	0.5124875124875126	IHC
+18:1(2S-OH) Ceramide	18:1(2S-OH) Ceramide	0.011936001857942054	0.4505494505494505	Air
+Spectral Match to Met-Leu from NIST14	Spectral Match to Met-Leu from NIST14	0.013836025158527346	0.44255744255744256	Air
+"""Spectral Match to 1,2-Dipalmitoleoyl-sn-glycero-3-phosphocholine from NIST14"""	"""Spectral Match to 1,2-Dipalmitoleoyl-sn-glycero-3-phosphocholine from NIST14"""	0.022483916823098405	0.4005994005994006	Air
+PC(16:0/20:4); (M+H)+ C44H81N1O8P1	PC(16:0/20:4); (M+H)+ C44H81N1O8P1	0.02273037098113953	0.40459540459540455	Air
+"""(2S,3S,4S,5R,6R)-6-(((3S,4S,6aR,6bS,8aR,9R,12aS,14bR)-9-hydroxy-4-(hydroxymethyl)-4,6a,6b,8a,11,11,14b-heptamethyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl)oxy)-5-((2S,3R,4S,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-((2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl)oxyoxan-2-yl)oxy-3,4-dihydroxyoxane-2-carboxylic acid"""	"""(2S,3S,4S,5R,6R)-6-(((3S,4S,6aR,6bS,8aR,9R,12aS,14bR)-9-hydroxy-4-(hydroxymethyl)-4,6a,6b,8a,11,11,14b-heptamethyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl)oxy)-5-((2S,3R,4S,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-((2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl)oxyoxan-2-yl)oxy-3,4-dihydroxyoxane-2-carboxylic acid"""	0.023252389040112568	0.39460539460539457	Air
+Spectral Match to Leu-Leu-Arg from NIST14	Spectral Match to Leu-Leu-Arg from NIST14	0.02485182948158424	0.39260739260739264	Air
+Spectral Match to Palmitoylcarnitine from NIST14	Spectral Match to Palmitoylcarnitine from NIST14	0.02816980746116355	0.3746253746253746	Air
+"""(4R)-4-((3R,5S,6R,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(4R)-4-((3R,5S,6R,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	0.03367801389871624	0.3626373626373627	Air
+Spectral Match to Ile-Arg from NIST14	Spectral Match to Ile-Arg from NIST14	0.03842051037771251	0.3276723276723277	Air
+Spectral Match to Amitriptyline from NIST14	Spectral Match to Amitriptyline from NIST14	0.04111873993098801	0.31868131868131866	Air
+"""ReSpect:PS125605 alpha-Tocotrienol|(2R,3'E,7'E)-alpha-Tocotrienol"""	"""ReSpect:PS125605 alpha-Tocotrienol|(2R,3'E,7'E)-alpha-Tocotrienol"""	0.04636179319971686	0.2917082917082917	Air
+"""(4R)-4-((3R,5R,6R,7S,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(4R)-4-((3R,5R,6R,7S,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	0.050191918766045285	0.2767232767232767	Air
+Pangamic Acid Sodium	Pangamic Acid Sodium	0.06740309921387827	0.2187812187812188	Air
+Soyaspongenol C	Soyaspongenol C	0.0674816240889324	0.2347652347652348	Air
+PC(16:0/20:5); (M+H)+ C44H79N1O8P1	PC(16:0/20:5); (M+H)+ C44H79N1O8P1	0.07403074759620043	0.2257742257742258	Air
+Spectral Match to 3beta-Hydroxy-5-cholenoic acid from NIST14	Spectral Match to 3beta-Hydroxy-5-cholenoic acid from NIST14	0.08254034885728692	0.1968031968031968	Air
+"""(4aR,5S)-9,9a-dihydroxy-3,4a,5-trimethyl-5,6,7,8,8a,9-hexahydro-4H-benzo(f)(1)benzofuran-2-one"""	"""(4aR,5S)-9,9a-dihydroxy-3,4a,5-trimethyl-5,6,7,8,8a,9-hexahydro-4H-benzo(f)(1)benzofuran-2-one"""	0.08579273585501683	0.15984015984015987	Air
+Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	0.0910339284803176	0.16383616383616384	Air
+"""(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	0.09299430776536119	0.15084915084915085	Air
+Spectral Match to Oleoyl L-carnitine from NIST14	Spectral Match to Oleoyl L-carnitine from NIST14	0.10036617577503301	0.11888111888111885	Air
+Stercobilin	Stercobilin	0.10176082046383987	0.13486513486513485	Air
+Spectral Match to Palmitoyl ethanolamide from NIST14	Spectral Match to Palmitoyl ethanolamide from NIST14	0.10217050351646424	0.1368631368631369	Air
+Spectral Match to Leu-Leu from NIST14	Spectral Match to Leu-Leu from NIST14	0.10287858943350969	0.14385614385614387	Air
+PC(18:2/18:3); (M+H)+ C44H79N1O8P1	PC(18:2/18:3); (M+H)+ C44H79N1O8P1	0.1077004310667178	0.12887112887112884	Air
+Spectral Match to Tyr-Leu-Lys from NIST14	Spectral Match to Tyr-Leu-Lys from NIST14	0.10864449077542705	0.11188811188811187	Air
+"""(R)-4-((3S,5S,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(R)-4-((3S,5S,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	0.10964369919935787	0.09890109890109888	Air
+Spectral Match to Lys-Leu from NIST14	Spectral Match to Lys-Leu from NIST14	0.11017390637391948	0.11388611388611392	Air
+Spectral Match to Benzyltetradecyldimethylammonium from NIST14	Spectral Match to Benzyltetradecyldimethylammonium from NIST14	0.1122870763928171	0.11088911088911091	Air
+"""NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa(3,4)benzo(1,2-e)azulen-9a-yl acetate"""	"""NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa(3,4)benzo(1,2-e)azulen-9a-yl acetate"""	0.11242479773193781	0.10589410589410586	Air
+Spectral Match to Val-Ile from NIST14	Spectral Match to Val-Ile from NIST14	0.11554728312914585	0.11488511488511488	Air
+Hyodeoxycholic acid	Hyodeoxycholic acid	0.12128950371222642	0.0889110889110889	Air
+Spectral Match to Val-Ile-Arg from NIST14	Spectral Match to Val-Ile-Arg from NIST14	0.12264266867856004	0.07192807192807193	Air
+LAUROYLCARNITINE	LAUROYLCARNITINE	0.12408865040093671	0.0889110889110889	Air
+Carpachromene	Carpachromene	0.12437465411065507	0.0919080919080919	Air
+Spectral Match to Ursodeoxycholic acid from NIST14	Spectral Match to Ursodeoxycholic acid from NIST14	0.12507094331498458	0.08391608391608396	Air
+L-PHENYLALANINE	L-PHENYLALANINE	0.12517501095843522	0.09590409590409588	Air
+NCGC00381248-01!4-oxododecanedioic acid	NCGC00381248-01!4-oxododecanedioic acid	0.12600975619350382	0.08491508491508493	Air
+"""NCGC00347704-02_C24H32O7_2H-Oxireno(1,10a)phenanthro(3,2-b)furan-10(11bH)-one, 5,7-bis(acetyloxy)-3,3a,4,5,6,7,7a,7b,8,8a-decahydro-4,4,7a,11-tetramethyl-, (1aS,3aR,5S,7S,7aR,7bS,8aR,11bR)-"""	"""NCGC00347704-02_C24H32O7_2H-Oxireno(1,10a)phenanthro(3,2-b)furan-10(11bH)-one, 5,7-bis(acetyloxy)-3,3a,4,5,6,7,7a,7b,8,8a-decahydro-4,4,7a,11-tetramethyl-, (1aS,3aR,5S,7S,7aR,7bS,8aR,11bR)-"""	0.1265954966419414	0.08791208791208793	Air
+Spectral Match to Gly-Tyr from NIST14	Spectral Match to Gly-Tyr from NIST14	0.12752601886594517	0.08391608391608396	Air
+Spectral Match to L-Tyrosine from NIST14	Spectral Match to L-Tyrosine from NIST14	0.13149118037495905	0.0889110889110889	Air
+Deoxycholic acid	Deoxycholic acid	0.13549156527625733	0.06793206793206796	Air
+Spectral Match to 1-Octadecanoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Octadecanoyl-sn-glycero-3-phosphocholine from NIST14	0.1375194711226578	0.06793206793206796	Air
+Cer(d18:0/18:0); (M+H)+ C36H74N1O3	Cer(d18:0/18:0); (M+H)+ C36H74N1O3	0.14497126866178614	0.04695304695304692	Air
+Spectral Match to Phe-Leu-Lys from NIST14	Spectral Match to Phe-Leu-Lys from NIST14	0.1475715890102201	0.051948051948051965	Air
+5'-DEOXYADENOSINE	5'-DEOXYADENOSINE	0.14934315417068764	0.060939060939060985	Air
+Spectral Match to Pro-Phe from NIST14	Spectral Match to Pro-Phe from NIST14	0.15026459712643286	0.051948051948051965	Air
+Spectral Match to Gly-Leu-Lys from NIST14	Spectral Match to Gly-Leu-Lys from NIST14	0.1560641605579622	0.049950049950049924	Air
+Spectral Match to Leu-Val-Lys from NIST14	Spectral Match to Leu-Val-Lys from NIST14	0.16261165104738096	0.038961038961038974	Air
+PC(16:1/18:1); (M+H)+ C42H81N1O8P1	PC(16:1/18:1); (M+H)+ C42H81N1O8P1	0.1641617527047679	0.03296703296703296	Air
+Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Palmitoyl-2-docosahexaenoyl-sn-glycero-3-phosphocholine from NIST14	0.16518413614435937	0.033966033966033926	Air
+Spectral Match to Ser-Val from NIST14	Spectral Match to Ser-Val from NIST14	0.1677358390015911	0.03796203796203801	Air
+"""NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate"""	"""NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate"""	0.16876499941059075	0.03596403596403597	Air
+Spectral Match to Ile-Ile-Lys from NIST14	Spectral Match to Ile-Ile-Lys from NIST14	0.16986175989004398	0.027972027972028024	Air
+tauroursodeoxycholic acid	tauroursodeoxycholic acid	0.17180698996452445	0.020979020979020935	Air
+PC(16:0/18:2); (M+H)+ C42H81N1O8P1	PC(16:0/18:2); (M+H)+ C42H81N1O8P1	0.171950673996128	0.027972027972028024	Air
+"""14-(hydroxymethyl)-5,9-dimethyltetracyclo(øΩ,øΩ)hexadecan-5-ol"""	"""14-(hydroxymethyl)-5,9-dimethyltetracyclo(øΩ,øΩ)hexadecan-5-ol"""	0.17396793285883624	0.026973026973026948	Air
+"""1,2-dihydroxyheptadec-16-en-4-yl acetate"""	"""1,2-dihydroxyheptadec-16-en-4-yl acetate"""	0.1842375153086732	0.02397602397602394	Air
+Thiamine	Thiamine	0.1864218392089659	0.02197802197802201	Air
+Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14	Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14	0.18795922128870032	0.022977022977022976	Air
+PC(14:0/20:4); (M+H)+ C42H77N1O8P1	PC(14:0/20:4); (M+H)+ C42H77N1O8P1	0.18924878609591275	0.018981018981019004	Air
+"""NCGC00169592-02_C29H46O4_3aH-Cyclopenta(a)chrysene-3a-carboxylic acid, 1-acetyleicosahydro-9-hydroxy-5a,5b,8,8,11a-pentamethyl-, (1R,3aS,5aR,5bR,9S,11aR)-"""	"""NCGC00169592-02_C29H46O4_3aH-Cyclopenta(a)chrysene-3a-carboxylic acid, 1-acetyleicosahydro-9-hydroxy-5a,5b,8,8,11a-pentamethyl-, (1R,3aS,5aR,5bR,9S,11aR)-"""	0.1899225517261529	0.016983016983016963	Air
+Spectral Match to Val-Val from NIST14	Spectral Match to Val-Val from NIST14	0.19064944366249797	0.013986013986013957	Air
+Lithocholic acid	Lithocholic acid	0.1967354853059519	0.012987012987012991	Air
+Spectral Match to N-Oleoylethanolamine from NIST14	Spectral Match to N-Oleoylethanolamine from NIST14	0.1975243945984779	0.018981018981019004	Air
+Spectral Match to L-Methionine from NIST14	Spectral Match to L-Methionine from NIST14	0.20868409048193062	0.012987012987012991	Air
+Spectral Match to Leu-Val from NIST14	Spectral Match to Leu-Val from NIST14	0.20909534486441703	0.011988011988012026	Air
+Spectral Match to Gly-Leu from NIST14	Spectral Match to Gly-Leu from NIST14	0.2214181777474594	0.003996003996003972	Air
+Ciprofloxacin - Dark Web Drugs	Ciprofloxacin - Dark Web Drugs	0.2240338996234288	0.007992007992007943	Air
+Spectral Match to Mononervonin (15c) from NIST14	Spectral Match to Mononervonin (15c) from NIST14	0.23545601143271694	0.005994005994006013	Air
+Spectral Match to Thr-Phe from NIST14	Spectral Match to Thr-Phe from NIST14	0.24011790854812967	0.003996003996003972	Air
+Ceramide (18:1/16:0)	Ceramide (18:1/16:0)	0.24173618615043507	0.005994005994006013	Air
+Spectral Match to Lys-Ile from NIST14	Spectral Match to Lys-Ile from NIST14	0.24401443984998009	0.004995004995005048	Air
+Spectral Match to Phe-Val-Lys from NIST14	Spectral Match to Phe-Val-Lys from NIST14	0.2535440655486276	0.0019980019980020414	Air
+Spectral Match to Leu-Glu-Lys from NIST14	Spectral Match to Leu-Glu-Lys from NIST14	0.26329520932464456	0.0029970029970030065	Air
+Spectral Match to Val-Phe from NIST14	Spectral Match to Val-Phe from NIST14	0.26624998160602725	0.0019980019980020414	Air
+Spectral Match to Arachidonoylthio-PC from NIST14	Spectral Match to Arachidonoylthio-PC from NIST14	0.2664362066239701	0.0029970029970030065	Air
+Spectral Match to 1-Hexadecanoyl-2-octadecadienoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Hexadecanoyl-2-octadecadienoyl-sn-glycero-3-phosphocholine from NIST14	0.26753485529533716	0.0029970029970030065	Air
+Spectral Match to Ile-Tyr from NIST14	Spectral Match to Ile-Tyr from NIST14	0.2690729386708572	0.004995004995005048	Air
+Spectral Match to L-Arginine from NIST14	Spectral Match to L-Arginine from NIST14	0.27100792325021605	0.0009990009990009652	Air
+Spectral Match to Ile-Met from NIST14	Spectral Match to Ile-Met from NIST14	0.27196522147955815	0.003996003996003972	Air
+Cer(d18:1/22:0); (M+H)+ C40H80N1O3	Cer(d18:1/22:0); (M+H)+ C40H80N1O3	0.27317281475533767	0.0029970029970030065	Air
+GUANIDINOSUCCINATE	GUANIDINOSUCCINATE	0.27528970086300947	0.003996003996003972	Air
+Spectral Match to Ile-Gly-Ile from NIST14	Spectral Match to Ile-Gly-Ile from NIST14	0.275401528378064	0.0019980019980020414	Air
+Spectral Match to Leu-Pro from NIST14	Spectral Match to Leu-Pro from NIST14	0.2756734970054789	0.0019980019980020414	Air
+Spectral Match to 26-Hydroxycholesterol-(25R) from NIST14	Spectral Match to 26-Hydroxycholesterol-(25R) from NIST14	0.2779275454611367	0.0019980019980020414	Air
+Spectral Match to Ile-Val-Lys from NIST14	Spectral Match to Ile-Val-Lys from NIST14	0.2781669862518915	0.003996003996003972	Air
+Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14	0.27914082072798035	0.0029970029970030065	Air
+Spectral Match to Leu-Phe from NIST14	Spectral Match to Leu-Phe from NIST14	0.2842696995603362	0.0019980019980020414	Air
+Spectral Match to Thr-Val-Leu from NIST14	Spectral Match to Thr-Val-Leu from NIST14	0.2860904880477059	0.0019980019980020414	Air
+TRYPTOPHAN	TRYPTOPHAN	0.28923636101899497	0.0029970029970030065	Air
+Spectral Match to Val-Leu from NIST14	Spectral Match to Val-Leu from NIST14	0.292535743862638	0.0029970029970030065	Air
+Spectral Match to 1-Hexadecyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Hexadecyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	0.2954306895375766	0.0009990009990009652	Air
+PC(16:1/18:2); (M+H)+ C42H79N1O8P1	PC(16:1/18:2); (M+H)+ C42H79N1O8P1	0.29558143235502193	0.0009990009990009652	Air
+LUMICHROME	LUMICHROME	0.29707234359074913	0.0009990009990009652	Air
+SM(d18:1/16:0); (M+H)+ C39H80N2O6P1	SM(d18:1/16:0); (M+H)+ C39H80N2O6P1	0.29788301611064205	0.0029970029970030065	Air
+b-Muricholic acid	b-Muricholic acid	0.29982290445722404	0.0019980019980020414	Air
+Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14	0.3001907930669891	0.0019980019980020414	Air
+Spectral Match to Gly-Phe from NIST14	Spectral Match to Gly-Phe from NIST14	0.30731759051572394	0.0009990009990009652	Air
+Spectral Match to Val-Leu-Lys from NIST14	Spectral Match to Val-Leu-Lys from NIST14	0.3127286083112861	0.0019980019980020414	Air
+"""Spectral Match to 9-Oxo-10E,12Z-octadecadienoic acid from NIST14"""	"""Spectral Match to 9-Oxo-10E,12Z-octadecadienoic acid from NIST14"""	0.3152732539644015	0.0019980019980020414	Air
+Spectral Match to Leu-Ile from NIST14	Spectral Match to Leu-Ile from NIST14	0.32187318058365705	0.0009990009990009652	Air
+Taurocholic Acid Sulfate	Taurocholic Acid Sulfate	0.3242794276324443	0.0009990009990009652	Air
+"""Spectral Match to 1-Octadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine from NIST14"""	"""Spectral Match to 1-Octadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine from NIST14"""	0.3317737742309156	0.0019980019980020414	Air
+"""NCGC00180384-03_C22H32O6_(1S,2R,4aR,8aR)-1-Acetoxy-7-isopropylidene-1,4a-dimethyl-6-oxodecahydro-2-naphthalenyl 2,3-dimethyl-2-oxiranecarboxylate"""	"""NCGC00180384-03_C22H32O6_(1S,2R,4aR,8aR)-1-Acetoxy-7-isopropylidene-1,4a-dimethyl-6-oxodecahydro-2-naphthalenyl 2,3-dimethyl-2-oxiranecarboxylate"""	0.33225008414418195	0.0019980019980020414	Air
+ReSpect:PM017301 gamma-L-Glutamyl-L-leucine	ReSpect:PM017301 gamma-L-Glutamyl-L-leucine	0.33627322414594135	0.0009990009990009652	Air
+Spectral Match to Asp-Leu from NIST14	Spectral Match to Asp-Leu from NIST14	0.33709060210490277	0.0009990009990009652	Air
+Spectral Match to Ile-Ser from NIST14	Spectral Match to Ile-Ser from NIST14	0.3405295271047838	0.0009990009990009652	Air
+Spectral Match to Benzyldodecyldimethylammonium from NIST14	Spectral Match to Benzyldodecyldimethylammonium from NIST14	0.34424524481238356	0.0009990009990009652	Air
+Spectral Match to Val-Gly-Val from NIST14	Spectral Match to Val-Gly-Val from NIST14	0.3607461691379809	0.0009990009990009652	Air
+Spectral Match to L-Glutamic acid from NIST14	Spectral Match to L-Glutamic acid from NIST14	0.36907262257749107	0.0009990009990009652	Air
+Spectral Match to Tyr-Leu from NIST14	Spectral Match to Tyr-Leu from NIST14	0.36984917360105163	0.0009990009990009652	Air
+Spectral Match to Ile-Lys from NIST14	Spectral Match to Ile-Lys from NIST14	0.3735812195016333	0.0009990009990009652	Air
+Cer(d18:1/24:0); (M+H)+ C42H84N1O3	Cer(d18:1/24:0); (M+H)+ C42H84N1O3	0.37610420181271076	0.0009990009990009652	Air
+hyocholic acid	hyocholic acid	0.37928522965229344	0.0009990009990009652	Air
+Spectral Match to L-Alanyl-L-norleucine from NIST14	Spectral Match to L-Alanyl-L-norleucine from NIST14	0.3812161140049802	0.0009990009990009652	Air
+Spectral Match to Val-Met from NIST14	Spectral Match to Val-Met from NIST14	0.39243963022075806	0.0009990009990009652	Air
+Spectral Match to KDdiA-PC from NIST14	Spectral Match to KDdiA-PC from NIST14	0.39663273250025743	0.0009990009990009652	Air
+Spectral Match to Ile-Pro-Lys from NIST14	Spectral Match to Ile-Pro-Lys from NIST14	0.3972359354261326	0.0009990009990009652	Air
+Spectral Match to L-Citrulline from NIST14	Spectral Match to L-Citrulline from NIST14	0.40172512333089067	0.0009990009990009652	Air
+PC(18:1/20:4); (M+H)+ C46H83N1O8P1	PC(18:1/20:4); (M+H)+ C46H83N1O8P1	0.4133149549189093	0.0009990009990009652	Air
+"""Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14"""	"""Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14"""	0.4155216345338785	0.0009990009990009652	Air
+Spectral Match to Phe-Val from NIST14	Spectral Match to Phe-Val from NIST14	0.4210917278575633	0.0009990009990009652	Air
+Spectral Match to Phe-Leu from NIST14	Spectral Match to Phe-Leu from NIST14	0.4250424797313669	0.0009990009990009652	Air
+a-Muricholic acid	a-Muricholic acid	0.4287799547948661	0.0009990009990009652	Air
+sphingosin C16 (Artifact)-emf	sphingosin C16 (Artifact)-emf	0.4335821169483412	0.0009990009990009652	Air
+Spectral Match to Ser-Phe from NIST14	Spectral Match to Ser-Phe from NIST14	0.4406312691516553	0.0009990009990009652	Air
+Spectral Match to 12(13)-Epoxy-9Z-octadecenoic acid from NIST14	Spectral Match to 12(13)-Epoxy-9Z-octadecenoic acid from NIST14	0.4426832728181009	0.0009990009990009652	Air
+"""(4R)-4-((1R,3S,5S,7R,9S,10S,12S,13R,14S,17R)-1,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(4R)-4-((1R,3S,5S,7R,9S,10S,12S,13R,14S,17R)-1,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	0.4619023834971076	0.0009990009990009652	Air
+"""Spectral Match to Monolinolenin (9c,12c,15c) from NIST14"""	"""Spectral Match to Monolinolenin (9c,12c,15c) from NIST14"""	0.47049598198863957	0.0009990009990009652	Air
+Spectral Match to 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	0.4754456448740557	0.0009990009990009652	Air
+Spectral Match to D-erythro-Sphinganine from NIST14	Spectral Match to D-erythro-Sphinganine from NIST14	0.4793234616130994	0.0009990009990009652	Air
+Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14	0.4832556199617944	0.0009990009990009652	Air
+Spectral Match to Pantothenic acid from NIST14	Spectral Match to Pantothenic acid from NIST14	0.5070446028060717	0.0009990009990009652	Air
+"""(4R)-4-((3R,5R,6R,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	"""(4R)-4-((3R,5R,6R,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta(a)phenanthren-17-yl)pentanoic acid"""	0.5079533267758579	0.0009990009990009652	Air
+"""Spectral Match to 9,10-Dihydroxy-12Z-octadecenoic acid from NIST14"""	"""Spectral Match to 9,10-Dihydroxy-12Z-octadecenoic acid from NIST14"""	0.5168793659591762	0.0009990009990009652	Air
+Alanine conjugated cholic acid	Alanine conjugated cholic acid	0.519892848521891	0.0009990009990009652	Air
+"""1,4a-dimethyl-9-oxo-7-propan-2-yl-3,4,10,10a-tetrahydro-2H-phenanthrene-1-carboxylic acid"""	"""1,4a-dimethyl-9-oxo-7-propan-2-yl-3,4,10,10a-tetrahydro-2H-phenanthrene-1-carboxylic acid"""	0.5244161699594299	0.0009990009990009652	Air
+PC(16:0/18:0); (M+H)+ C42H85N1O8P1	PC(16:0/18:0); (M+H)+ C42H85N1O8P1	0.5434257593156607	0.0009990009990009652	Air
+Spectral Match to D-erythro-C18-Sphingosine from NIST14	Spectral Match to D-erythro-C18-Sphingosine from NIST14	0.5591931454503318	0.0009990009990009652	Air
+Spectral Match to 9(10)-EpOME from NIST14	Spectral Match to 9(10)-EpOME from NIST14	0.5617579501617389	0.0009990009990009652	Air
+Spectral Match to N-Tetracosenoyl-4-sphingenine from NIST14	Spectral Match to N-Tetracosenoyl-4-sphingenine from NIST14	0.5672761062042211	0.0009990009990009652	Air
+Massbank:CE000655 Glutamate	Massbank:CE000655 Glutamate	0.576798500595524	0.0009990009990009652	Air
+"""Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14"""	"""Spectral Match to 1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine from NIST14"""	0.5986979861266629	0.0009990009990009652	Air
+Spectral Match to 1-Stearoyl-2-linoleoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Stearoyl-2-linoleoyl-sn-glycero-3-phosphocholine from NIST14	0.6225932522063014	0.0009990009990009652	Air
+Spectral Match to Linoleoyl ethanolamide from NIST14	Spectral Match to Linoleoyl ethanolamide from NIST14	0.6252059165288926	0.0009990009990009652	Air
+MoNA:790553 Linoleic acid	MoNA:790553 Linoleic acid	0.6322455041096315	0.0009990009990009652	Air
+Spectral Match to 1-Stearoyl-2-myristoyl-sn-glycero-3-phosphocholine from NIST14	Spectral Match to 1-Stearoyl-2-myristoyl-sn-glycero-3-phosphocholine from NIST14	0.687732277079242	0.0009990009990009652	Air
+Spectral Match to Elaidic acid from NIST14	Spectral Match to Elaidic acid from NIST14	0.9113949197272052	0.0009990009990009652	Air
+Spectral Match to cis-9-Hexadecenoic acid from NIST14	Spectral Match to cis-9-Hexadecenoic acid from NIST14	1.0000655699319032	0.0009990009990009652	Air
+"""Spectral Match to 9-Octadecenamide, (Z)- from NIST14"""	"""Spectral Match to 9-Octadecenamide, (Z)- from NIST14"""	1.0470418987445442	0.0009990009990009652	Air

@@ -1,0 +1,121 @@
+sample-id	filename	micro-sample-id	cage_food_consumption_g	cage_location	cage_number	diet	exposure_type	genotype	host_age	host_age_units	host_subject_id	host_weight	host_weight_units	mouse_number	sample_type
+A18_100_01	A18_100_01.mzXML	11548.A18.100.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10.0	weeks	Mouse 100	26.1	g	100	feces
+A18_100_05	A18_100_05.mzXML	11548.A18.100.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12.0	weeks	Mouse 100	26.1	g	100	feces
+A18_100_10	A18_100_10.mzXML	11548.A18.100.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 100	26.6	g	100	feces
+A18_100_15	A18_100_15.mzXML	11548.A18.100.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17.0	weeks	Mouse 100	26	g	100	feces
+A18_100_20	A18_100_20.mzXML	11548.A18.100.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 100	26.3	g	100	feces
+A18_97_01	A18_97_01.mzXML	11548.A18.97.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10.0	weeks	Mouse 97	27.1	g	97	feces
+A18_97_05	A18_97_05.mzXML	11548.A18.97.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12.0	weeks	Mouse 97	28	g	97	feces
+A18_97_10	A18_97_10.mzXML	11548.A18.97.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 97	28.1	g	97	feces
+A18_97_15	A18_97_15.mzXML	11548.A18.97.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17.0	weeks	Mouse 97	27.8	g	97	feces
+A18_97_20	A18_97_20.mzXML	11548.A18.97.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 97	28.4	g	97	feces
+A18_98_01	A18_98_01.mzXML	11548.A18.98.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10.0	weeks	Mouse 98	25.8	g	98	feces
+A18_98_05	A18_98_05.mzXML	11548.A18.98.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12.0	weeks	Mouse 98	26.1	g	98	feces
+A18_98_10	A18_98_10.mzXML	11548.A18.98.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 98	25.9	g	98	feces
+A18_98_15	A18_98_15.mzXML	11548.A18.98.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17.0	weeks	Mouse 98	25.8	g	98	feces
+A18_98_20	A18_98_20.mzXML	11548.A18.98.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 98	26	g	98	feces
+A18_99_01	A18_99_01.mzXML	11548.A18.99.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10.0	weeks	Mouse 99	26.8	g	99	feces
+A18_99_05	A18_99_05.mzXML	11548.A18.99.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12.0	weeks	Mouse 99	23.2	g	99	feces
+A18_99_10	A18_99_10.mzXML	11548.A18.99.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 99	25.9	g	99	feces
+A18_99_15	A18_99_15.mzXML	11548.A18.99.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17.0	weeks	Mouse 99	25.7	g	99	feces
+A18_99_20	A18_99_20.mzXML	11548.A18.99.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 99	25.7	g	99	feces
+A19_101_01	A19_101_01.mzXML	11548.A19.101.1	not applicable	In Chamber	A19	HFD	IHC	ApoE KO	10.0	weeks	Mouse 101	29.5	g	101	feces
+A19_101_05	A19_101_05.mzXML	11548.A19.101.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12.0	weeks	Mouse 101	28.1	g	101	feces
+A19_101_10	A19_101_10.mzXML	11548.A19.101.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 101	27.7	g	101	feces
+A19_101_15	A19_101_15.mzXML	11548.A19.101.15	29	In Chamber	A19	HFD	IHC	ApoE KO	17.0	weeks	Mouse 101	26.4	g	101	feces
+A19_101_20	A19_101_20.mzXML	11548.A19.101.20	21.8	In Chamber	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 101	26.2	g	101	feces
+A19_102_01	A19_102_01.mzXML	11548.A19.102.1	not applicable	In Chamber	A19	HFD	IHC	ApoE KO	10.0	weeks	Mouse 102	24.4	g	102	feces
+A19_102_05	A19_102_05.mzXML	11548.A19.102.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12.0	weeks	Mouse 102	22.7	g	102	feces
+A19_102_10	A19_102_10.mzXML	11548.A19.102.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 102	22.8	g	102	feces
+A19_102_15	A19_102_15.mzXML	11548.A19.102.15	29	In Chamber	A19	HFD	IHC	ApoE KO	17.0	weeks	Mouse 102	22	g	102	feces
+A19_102_20	A19_102_20.mzXML	11548.A19.102.20	21.8	In Chamber	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 102	22.9	g	102	feces
+A19_103_01	A19_103_01.mzXML	11548.A19.103.1	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	10.0	weeks	Mouse 103	25.7	g	103	feces
+A19_103_05	A19_103_05.mzXML	11548.A19.103.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12.0	weeks	Mouse 103	26.5	g	103	feces
+A19_103_10	A19_103_10.mzXML	11548.A19.103.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 103	25.3	g	103	feces
+A19_103_15_Animal_Died	A19_103_15_Animal_Died.mzXML		Not provided	not applicable	A19	HFD	IHC	ApoE KO	17.0	weeks	Mouse 103	Not provided	g	103	not applicable
+A19_103_20_Animal_Died	A19_103_20_Animal_Died.mzXML		Not provided	not applicable	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 103	Not provided	g	103	not applicable
+A19_104_01	A19_104_01.mzXML	11548.A19.104.1	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	10.0	weeks	Mouse 104	25.6	g	104	feces
+A19_104_05	A19_104_05.mzXML	11548.A19.104.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12.0	weeks	Mouse 104	24.9	g	104	feces
+A19_104_10	A19_104_10.mzXML	11548.A19.104.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 104	24.3	g	104	feces
+A19_104_15	A19_104_15.mzXML	11548.A19.104.15	29	In Chamber	A19	HFD	IHC	ApoE KO	17.0	weeks	Mouse 104	22	g	104	feces
+A19_104_20	A19_104_20.mzXML	11548.A19.104.20	21.8	In Chamber	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 104	21.4	g	104	feces
+A20_105_01	A20_105_01.mzXML	11548.A20.105.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10.0	weeks	Mouse 105	26.2	g	105	feces
+A20_105_05	A20_105_05.mzXML	11548.A20.105.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12.0	weeks	Mouse 105	28.1	g	105	feces
+A20_105_10	A20_105_10.mzXML	11548.A20.105.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 105	25.9	g	105	feces
+A20_105_15	A20_105_15.mzXML	11548.A20.105.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17.0	weeks	Mouse 105	24.4	g	105	feces
+A20_105_20	A20_105_20.mzXML	11548.A20.105.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 105	24.1	g	105	feces
+A20_106_01	A20_106_01.mzXML	11548.A20.106.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10.0	weeks	Mouse 106	26.6	g	106	feces
+A20_106_05	A20_106_05.mzXML	11548.A20.106.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12.0	weeks	Mouse 106	22.7	g	106	feces
+A20_106_10	A20_106_10.mzXML	11548.A20.106.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 106	27.9	g	106	feces
+A20_106_15	A20_106_15.mzXML	11548.A20.106.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17.0	weeks	Mouse 106	26.3	g	106	feces
+A20_106_20	A20_106_20.mzXML	11548.A20.106.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 106	26.1	g	106	feces
+A20_107_01	A20_107_01.mzXML	11548.A20.107.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10.0	weeks	Mouse 107	27	g	107	feces
+A20_107_05	A20_107_05.mzXML	11548.A20.107.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12.0	weeks	Mouse 107	26.5	g	107	feces
+A20_107_10	A20_107_10.mzXML	11548.A20.107.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 107	25.3	g	107	feces
+A20_107_15	A20_107_15.mzXML	11548.A20.107.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17.0	weeks	Mouse 107	24.5	g	107	feces
+A20_107_20	A20_107_20.mzXML	11548.A20.107.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 107	24.1	g	107	feces
+A20_108_01	A20_108_01.mzXML	11548.A20.108.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10.0	weeks	Mouse 108	27.3	g	108	feces
+A20_108_05	A20_108_05.mzXML	11548.A20.108.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12.0	weeks	Mouse 108	24.9	g	108	feces
+A20_108_10	A20_108_10.mzXML	11548.A20.108.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 108	26.4	g	108	feces
+A20_108_15	A20_108_15.mzXML	11548.A20.108.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17.0	weeks	Mouse 108	24.4	g	108	feces
+A20_108_20	A20_108_20.mzXML	11548.A20.108.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 108	24.8	g	108	feces
+A21_109_01	A21_109_01.mzXML	11548.A21.109.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10.0	weeks	Mouse 109	25.3	g	109	feces
+A21_109_05	A21_109_05.mzXML	11548.A21.109.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12.0	weeks	Mouse 109	27.6	g	109	feces
+A21_109_10	A21_109_10.mzXML	11548.A21.109.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 109	29	g	109	feces
+A21_109_15	A21_109_15.mzXML	11548.A21.109.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17.0	weeks	Mouse 109	30.6	g	109	feces
+A21_109_20	A21_109_20.mzXML	11548.A21.109.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 109	31.5	g	109	feces
+A21_110_01	A21_110_01.mzXML	11548.A21.110.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10.0	weeks	Mouse 110	24.4	g	110	feces
+A21_110_05	A21_110_05.mzXML	11548.A21.110.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12.0	weeks	Mouse 110	28.5	g	110	feces
+A21_110_10	A21_110_10.mzXML	11548.A21.110.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 110	31	g	110	feces
+A21_110_15	A21_110_15.mzXML	11548.A21.110.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17.0	weeks	Mouse 110	32.3	g	110	feces
+A21_110_20	A21_110_20.mzXML	11548.A21.110.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 110	33.1	g	110	feces
+A21_111_01	A21_111_01.mzXML	11548.A21.111.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10.0	weeks	Mouse 111	24.9	g	111	feces
+A21_111_05	A21_111_05.mzXML	11548.A21.111.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12.0	weeks	Mouse 111	26.6	g	111	feces
+A21_111_10	A21_111_10.mzXML	11548.A21.111.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 111	28.3	g	111	feces
+A21_111_15	A21_111_15.mzXML	11548.A21.111.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17.0	weeks	Mouse 111	30.3	g	111	feces
+A21_111_20	A21_111_20.mzXML	11548.A21.111.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 111	31	g	111	feces
+A21_112_01	A21_112_01.mzXML	11548.A21.112.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10.0	weeks	Mouse 112	25	g	112	feces
+A21_112_05	A21_112_05.mzXML	11548.A21.112.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12.0	weeks	Mouse 112	26.4	g	112	feces
+A21_112_10	A21_112_10.mzXML	11548.A21.112.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 112	28.4	g	112	feces
+A21_112_15	A21_112_15.mzXML	11548.A21.112.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17.0	weeks	Mouse 112	29.7	g	112	feces
+A21_112_20	A21_112_20.mzXML	11548.A21.112.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 112	30.6	g	112	feces
+A22_113_01	A22_113_01.mzXML	11548.A22.113.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10.0	weeks	Mouse 113	27.4	g	113	feces
+A22_113_05	A22_113_05.mzXML	11548.A22.113.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12.0	weeks	Mouse 113	29.6	g	113	feces
+A22_113_10	A22_113_10.mzXML	11548.A22.113.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 113	33.1	g	113	feces
+A22_113_15	A22_113_15.mzXML	11548.A22.113.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17.0	weeks	Mouse 113	35.2	g	113	feces
+A22_113_20	A22_113_20.mzXML	11548.A22.113.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 113	36.2	g	113	feces
+A22_114_01	A22_114_01.mzXML	11548.A22.114.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10.0	weeks	Mouse 114	29.5	g	114	feces
+A22_114_05	A22_114_05.mzXML	11548.A22.114.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12.0	weeks	Mouse 114	32.7	g	114	feces
+A22_114_10	A22_114_10.mzXML	11548.A22.114.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 114	34.4	g	114	feces
+A22_114_15	A22_114_15.mzXML	11548.A22.114.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17.0	weeks	Mouse 114	37.9	g	114	feces
+A22_114_20	A22_114_20.mzXML	11548.A22.114.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 114	40	g	114	feces
+A22_115_01	A22_115_01.mzXML	11548.A22.115.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10.0	weeks	Mouse 115	26.7	g	115	feces
+A22_115_05	A22_115_05.mzXML	11548.A22.115.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12.0	weeks	Mouse 115	28.6	g	115	feces
+A22_115_10	A22_115_10.mzXML	11548.A22.115.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 115	30.2	g	115	feces
+A22_115_15	A22_115_15.mzXML	11548.A22.115.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17.0	weeks	Mouse 115	31.4	g	115	feces
+A22_115_20	A22_115_20.mzXML	11548.A22.115.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 115	33.5	g	115	feces
+A22_116_01	A22_116_01.mzXML	11548.A22.116.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10.0	weeks	Mouse 116	26.7	g	116	feces
+A22_116_05	A22_116_05.mzXML	11548.A22.116.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12.0	weeks	Mouse 116	28.4	g	116	feces
+A22_116_10	A22_116_10.mzXML	11548.A22.116.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 116	30.5	g	116	feces
+A22_116_15	A22_116_15.mzXML	11548.A22.116.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17.0	weeks	Mouse 116	33.4	g	116	feces
+A22_116_20	A22_116_20.mzXML	11548.A22.116.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 116	35	g	116	feces
+A23_117_01	A23_117_01.mzXML	11548.A23.117.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10.0	weeks	Mouse 117	27.2	g	117	feces
+A23_117_05	A23_117_05.mzXML	11548.A23.117.5	51	On shelf	A23	HFD	Air	ApoE KO	12.0	weeks	Mouse 117	30.3	g	117	feces
+A23_117_10	A23_117_10.mzXML	11548.A23.117.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 117	33.3	g	117	feces
+A23_117_15	A23_117_15.mzXML	11548.A23.117.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17.0	weeks	Mouse 117	34.9	g	117	feces
+A23_117_20	A23_117_20.mzXML	11548.A23.117.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 117	36.1	g	117	feces
+A23_118_01	A23_118_01.mzXML	11548.A23.118.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10.0	weeks	Mouse 118	26.3	g	118	feces
+A23_118_05	A23_118_05.mzXML	11548.A23.118.5	51	On shelf	A23	HFD	Air	ApoE KO	12.0	weeks	Mouse 118	29.3	g	118	feces
+A23_118_10	A23_118_10.mzXML	11548.A23.118.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 118	30.8	g	118	feces
+A23_118_15	A23_118_15.mzXML	11548.A23.118.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17.0	weeks	Mouse 118	32.5	g	118	feces
+A23_118_20	A23_118_20.mzXML	11548.A23.118.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 118	33.5	g	118	feces
+A23_119_01	A23_119_01.mzXML	11548.A23.119.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10.0	weeks	Mouse 119	25	g	119	feces
+A23_119_05	A23_119_05.mzXML	11548.A23.119.5	51	On shelf	A23	HFD	Air	ApoE KO	12.0	weeks	Mouse 119	26.2	g	119	feces
+A23_119_10	A23_119_10.mzXML	11548.A23.119.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 119	27.8	g	119	feces
+A23_119_15	A23_119_15.mzXML	11548.A23.119.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17.0	weeks	Mouse 119	28.7	g	119	feces
+A23_119_20	A23_119_20.mzXML	11548.A23.119.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 119	30	g	119	feces
+A23_120_01	A23_120_01.mzXML	11548.A23.120.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10.0	weeks	Mouse 120	27	g	120	feces
+A23_120_05	A23_120_05.mzXML	11548.A23.120.5	51	On shelf	A23	HFD	Air	ApoE KO	12.0	weeks	Mouse 120	30	g	120	feces
+A23_120_10	A23_120_10.mzXML	11548.A23.120.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 120	32.5	g	120	feces
+A23_120_15	A23_120_15.mzXML	11548.A23.120.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17.0	weeks	Mouse 120	36	g	120	feces
+A23_120_20	A23_120_20.mzXML	11548.A23.120.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 120	37.7	g	120	feces
